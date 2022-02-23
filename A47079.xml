@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote for troubled soules, or, The fruit of repentance taken out of the word of God, and delivered to Thomas Jones of the city of Hereford ...</title>
+            <author>Jones, Thomas, of Hereford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47079</idno>
+            <idno type="STC">Wing J993</idno>
+            <idno type="STC">ESTC R15721</idno>
+            <idno type="EEBO-CITATION">12431296</idno>
+            <idno type="OCLC">ocm 12431296</idno>
+            <idno type="VID">61966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 279:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote for troubled soules, or, The fruit of repentance taken out of the word of God, and delivered to Thomas Jones of the city of Hereford ...</title>
+                  <author>Jones, Thomas, of Hereford.</author>
+               </titleStmt>
+               <extent>[23] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published with license"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61966:1" rendition="simple:additions"/>
+            <p>AN ANTIDOTE FOR Troubled Soules. Or, <hi>The Fruit of Repentance.</hi>
+            </p>
+            <p>Taken out of the Word of God, and Delivered to <hi>Thomas Jones</hi> of the City of <hi>Hereford,</hi> who was many yeares afflicted both in body and in minde, for violating or prophaning the Lords Sab<g ref="char:EOLhyphen"/>bath day: And thinking this Antidote to be part of the Talent which the Lord gave him ſince he repented for the ſame, being commanded in his ſleep to give an account thereof, he hath thought it requiſite to publiſh it for the good of all penitent Sinners.</p>
+            <p>Publiſhed with Licenſe.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 8.18.</hi>
+               </bibl>
+               <p>I account the afflictions of this preſent life not worthy of the glory which ſhall be ſhewed unto us.</p>
+               <bibl>
+                  <hi>2 Cor. 4.17.</hi>
+               </bibl>
+               <p>Our light affliction which is but for a moment, worketh for as a far more exceeding and eter<g ref="char:EOLhyphen"/>nall weight of glory.</p>
+            </q>
+            <p>London, Printed for <hi>John Wright,</hi> at the ſigne of the Kings head in the Old Baily. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:61966:2"/>
+            <pb facs="tcp:61966:2"/>
+            <head>The Fruit of REPENTANCE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Acts 2.38.</hi>
+                  </bibl>
+                  <p>Then Peter ſaid unto them, Repent and be bap<g ref="char:EOLhyphen"/>tized every one of you in the Name of Ieſus Chriſt, for remiſsion of ſinnes, and ye ſhall receive the Holy Ghoſt.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E heard in the former verſe the que<g ref="char:EOLhyphen"/>ſtion of theſe pricked hearts, to <hi>Peter</hi> and the reſt of the Apoſtles. <hi>Men and Brethren, What ſhall we do?</hi> Teaching us how much it imports every Soule to ſeek for the was and meanes to Salvation. We proceed now to the an<g ref="char:EOLhyphen"/>ſwer given from the mouth of <hi>Peter,</hi> preſcribing the
+<pb facs="tcp:61966:3"/>
+means of ſalvation in this verſe now read unto you: which are two: firſt Repentance, then Baptiſme, afterwards he perſwades them to the practiſe there<g ref="char:EOLhyphen"/>of, in the next verſe. At this time only of the firſt means of Salvation, that is, Repentance.</p>
+            <div type="section">
+               <head>The Doctrine is,</head>
+               <p>That he that will be ſaved, muſt repent. <hi>Men and brethren</hi> (ſay they) <hi>what ſhall we do?</hi> meaning, to be ſaved, as the Gaoler expreſſeth himelf. <hi>Repent.</hi> ſaith <hi>Peter:</hi> as if he ſhould ſay, If ye repent, ye ſhall be ſaved; but if ye will not repent, ye ſhall not be ſaved. <hi>Except ye repent,</hi> ſaith our Saviour, <hi>ye ſhall all likewiſe periſh. Luke</hi> 13.3.</p>
+               <p>The reaſon is, Firſt, becauſe we are all by nature ſinners, and conſequently under the eternall wrath of God, children of wrath, and there is no means to avoid Gods eternall curſe and wrath, without re<g ref="char:EOLhyphen"/>pentance. <hi>O generations of Vipers,</hi> ſaith <hi>John</hi> the Baptiſt to the Phariſees, <hi>Mat.</hi> 3.7. <hi>Who hath fore<g ref="char:EOLhyphen"/>warned you to flee from the wrath to come, bring forth therefore fruit meet for Repentance.</hi> As if he ſhould ſay, You think your great holineſſe that was ſhall ſave you, but who hath taught you to eſcape the wrath of God thereby? Let me teach you, if you will eſcape the wrath to come, truſt not to your holy religion, but ſee you make good your repentance.</p>
+               <p>Secondly, on the condition of repentance God hath promiſed what Chriſt hath merited, that is, pardon of ſin, <hi>Eſa.</hi> 1.16. The Prophet exhorteth, <hi>Waſh you, make you clean, put away the evil of your doings, ceaſe to do evil, learn to do well,</hi> that is, Repent: And
+<pb facs="tcp:61966:3"/>
+then in the eighteenth verſe he promiſeth, <hi>Though your ſinnes be as ſcarlet, yet they ſhall be as white as ſnow; though they be as red as crimſon, yet they ſhall be as wooll, Act.</hi> 5.13. The Apoſtle ſaith, <hi>They God of our Fathers hath exalted Chriſt to be a Prince and a Saviour, to give repentance to Iſrael, and for<g ref="char:EOLhyphen"/>giveneſſe of ſins.</hi> Pardon of ſin, upon repentance. So then, without repentance, there is no means poſsible to eſcape the wrath of God. Vpon repentance, God hath promiſed pardon of all ſins, even as Chriſt hath merited. If any might be ſaved without repentance, then Chriſts diſciples might be ſaved: but our Sa<g ref="char:EOLhyphen"/>viour tels them. <hi>Except ye repent, ye ſhall all like<g ref="char:EOLhyphen"/>wiſe periſh.</hi> And if any might not be ſaved with repentance, then thoſe murtherers of Chriſt would not be ſaved. Yet <hi>Peter</hi> ſaith, <hi>Repent, and ye ſhall be ſaved.</hi> Vpon this ſtring all the Prophets harped, <hi>Repent, Repent.</hi> This was <hi>John Baptiſts</hi> firſt Ser<g ref="char:EOLhyphen"/>mon; this was the thing that Chriſt did preach firſt, and this muſt be the burden of our ſong unto the end of the world, <hi>Luk.</hi> 24.37. <hi>It is neceſſary,</hi> ſaith our Saviour, <hi>that repentance and remiſsion of ſinnes be preached to all Nations.</hi> We preach nothing without repentance, yea, there is no ſalvation without re<g ref="char:EOLhyphen"/>pentance. Now it will be neceſſary to ſhew what repentance is: The nature of repentance is a large thing, much hath been written of it. I will give you therefore briefly the cheif part of repentance. In repentance there is the work of God, and the work of man: Gods work is Regeneration a new cre<g ref="char:EOLhyphen"/>ation, which makes a man a new creature, by taking
+<pb facs="tcp:61966:4"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>way the ſtony heart, and giving him a heart of fleſh <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the place of it: and this is done by a two-fold grace.</p>
+               <p>Firſt, Preventing grace, which pricks and breaks the heart. Herein he is a meer patient.</p>
+               <p>Secondly, Subſequent grace, enabling a man to the practice of repentance.</p>
+               <p>Mans work in repentance ſtands chiefly in two things, Mourning and Turning, as the Prophet <hi>Joel</hi> expreſſeth it, <hi>Joel</hi> 2.12. <hi>Turn to the Lord with faſting, weeping and mourning, rent your hearts, and turn to the Lord.</hi> There are the principall parts of repentance expreſſed.</p>
+               <p>Firſt then, in repentance there muſt be a mourn<g ref="char:EOLhyphen"/>ing of the heart with godly ſorrow for ſin, chiefly becauſe God is offended, and Chriſt pierced, other<g ref="char:EOLhyphen"/>wiſe it is not godly ſorrow. This the Apoſtle, 2 <hi>Cor.</hi> 7.10. makes the firſt and chiefeſt whéel in the clock, or the firſt mover to repentance. Godly ſorrow cau<g ref="char:EOLhyphen"/>ſeth repentance unto ſalvation, not to be repented of. If thy heart be firſt broken with godly ſorrow, thy repentance is from the heart; elſe howſoever it doth appear, it is but hypocriſie, it tends to thy greater damnation.</p>
+               <p>Secondly, after mourning there muſt be a turning, <hi>Act.</hi> 3.19. <hi>Repent and be converted.</hi> This conver<g ref="char:EOLhyphen"/>ſion muſt be from ſin to God.</p>
+               <p>Firſt, it muſt be from ſinne. <hi>Repent, and turn your ſelves from all your tranſgreſſions, ſaith the Lord, Ezek.</hi> 18.3.</p>
+               <p>Secondly, this turning muſt be to God. <hi>Repent
+<pb facs="tcp:61966:4"/>
+and turn to the Lord,</hi> ſaith the Apoſtle, <hi>Act.</hi> 26.20.</p>
+               <p>Now this turning or converſion muſt have thrée properties.</p>
+               <p>It muſt be
+<list>
+                     <item>1 <hi>Inward.</hi>
+                     </item>
+                     <item>2 <hi>Outward.</hi>
+                     </item>
+                     <item>3 <hi>Univerſall.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Firſt, it muſt be an inward turning, a change of the heart, <hi>Joel</hi> 2.12. with all your heart, <hi>Ezek.</hi> 18. <hi>Make you a new heart and a new ſpirit.</hi> This inward change muſt be by mortifying our concupiſcence, by purging out corruption, hiding the Word in our hearts, cheriſhing the motions of the Spirit. Truth in the inward part, hating ſin, and delighting in holineſſe.</p>
+               <p>Secondly, it muſt be outward. <hi>Caſt away from you all your tranſgreſſions wherwith you have tranſ<g ref="char:EOLhyphen"/>greſſed, Ezek.</hi> 18 31.</p>
+               <p>Thirdly, this turning muſt be univerſall, as with all the heart, ſo likewiſe from all ſinne: As the Prophet requireth, <hi>Ezek.</hi> 18.30.31. <hi>Turn your ſelves from all your ſinnes, and caſt away all your tranſ<g ref="char:EOLhyphen"/>greſſions</hi> Secondly, it muſt be a turning to all good works, <hi>Jam.</hi> 2.10. <hi>If a man keep the whole law, and offend in one point, he is guilty of all.</hi> Thus you ſée the hate of it: the Definition is this:
+<q>Repentance is the work of the Spirit of God, whereby a ſinner mourns for his ſin, and turns to God in all holy and hearty obedience.</q>
+               </p>
+               <p>
+                  <pb facs="tcp:61966:5"/>The uſe is firſt for trial. Thou hopeſt to be ſaved, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd who doth not? But if thou wilt be ſaved, thou muſt repent. Art thou regenerated? Haſt thou re<g ref="char:EOLhyphen"/>leived the Spirit of grace? Art thou become a new <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reature? Haſt thou mourned in ſecret with godly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orrow for ſin? Is there no ſin that thou loveſt or <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>loweſt? Is there no ſin but thou hateſt, no duty but thou doeſt (or deſireſt to do)? Then thou haſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epented, elſe no repentance, no hope of ſalvation.</p>
+               <p>The ſecond Vſe is for repro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e and terror to all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpenitent perſons, who had never the grace to mourn for their ſinnes, or turn from them to God. Do we not ſee that the moſt live in abominable ſins, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wearing, drunkenneſſe, whoredome, fraud, lying, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſenage, contempt of Gods word, prophaning of the Sabbath, drinking iniquity, as the Axe drinks wa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, thinking they ſhall never have enough? And <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow few of theſe repent? If without repentance, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſalvation: what will become of theſe wretches that live in open practiſe of abominable ſins? Others <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hink themſelves in a good eſtate, becauſe they are not ſo bad as others, they are honeſt civil men need<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng no repentance, they know no hurt they have done, what ſhall they repent of? they do no man wrong, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey keep the Church, are good natured &amp; bountifull. But what are all theſe but <hi>ſplendida peccata?</hi> And what is their reward but the wrath of God? Others are ſo pure in their own eyes, that they think them<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elves paſt repentance, ſo clean, as they need no repentance. But Publicans and ſinners ſhall enter into the Kingdome of heaven as ſoon as they, and
+<pb facs="tcp:61966:5"/>
+ſooner too. And by how much the more cleaner they are in their own eyes, by ſo much more hatefull are their hearts to God. Like <hi>Baalam</hi> they will cry, O let me die the death of the Righteous; but never, let <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e live his life. They will faſt and put on mourning countenances; in time of judgement they will ſeem to mourn, but the oppreſſed feele no eaſe from them: when the ſtorm is paſt, they are euen as <hi>Ahab,</hi> more wicked then before. Some talk of repentance, but know no more then brute beaſts what repentance means. Some, yea the moſt, in time of ſickneſſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alk of it: O, if they ſhould liue, then they would be<g ref="char:EOLhyphen"/>come new men; if they die, then ſurely becauſe of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his they muſt go to heauen, charity thinks the beſt: But if they liue, with the dog they return to their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omit, and with the ſwine to her former wallowing <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the myre. Some indéed will mourne, and ſéem to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epent and make reſtitution: but remember <hi>Judas,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll this he did, yet he hanged himſelf. It is either <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hame, or to quiet a brawling conſcience or the praiſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f men that makes them do ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. They ſorrow not for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in, becauſe they haue grieued God: they return from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne ſin to another, from prodigality to couetouſneſſe. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f ſuch repentance, which is but only a ſhew, were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rue repentance, then we ſhould haue many Re<g ref="char:EOLhyphen"/>pentants; But who can find one true Repentant in his day-light of the Goſpel? But behold thou <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>retched ſinner, the gate of hell opens for thee, Gods <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſe hangs ouer thy head, thy life i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhort, and Gods <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dgement ſharp, thy conſcience ſhall be ranſacked, by thoughts and deeds laid open, thy ſelf accurſed to
+<pb facs="tcp:61966:6"/>
+the pit of Hell, where thou ſhalt haue eaſeleſſe, end<g ref="char:EOLhyphen"/>leſſe, and remedileſſe pains. If one be rewarded with that curſe, if one ſin deſerves the curſe, what will all thy curſed ſins deſerue?</p>
+               <p>But God is mercifull, and Chriſt died for ſinners, that is my comfort, ſay many.</p>
+               <p>
+                  <hi>Anſw.</hi> Yea, but God is iuſt likewiſe, mercifull indeed to the Penitent, but iuſt to the impenitent: And Chriſt died only for the penitent. God hath been mercifull unto thee, he hath giuen thée means of repentance, and called thée to repentance; but if thou repent not, the mercy of God which thou haſt abuſed, the blood of Chriſt which thou haſt deſpiſed, and the Word which thou haſt neglected, ſhall riſe up in iudgement againſt thee, and a thouſand milli<g ref="char:EOLhyphen"/>ons that haue not grace giuen to them, as it hath béen offered to thée, they ſhall riſe up in iudgement againſt thee. Therefore it is better (if thou couldſt) to ſay, Chriſt did not die for thée, and God is not mercifull. Know that thou treaſureſt up wrath a<g ref="char:EOLhyphen"/>gainſt the day of wrath. And if thou doſt giue us the lie, <hi>Moſes</hi> proviſeth, <hi>Deut.</hi> 29.19. When he ſhall heare the words of this curſe, he ſhall bleſſe himſelf in his heart, ſaying, I ſhall have peace, though I walk according to the ſtubborneſſe of mine own heart: Thus adding drunkenneſſe to thirſt, the Lord will not be mercifull unto him, but the wrath of God and his iealouſie ſhall ſmoke againſt that man, and euery curſe that is written in this book ſhall light upon him, and the Lord ſhall put his name out from under heauen.</p>
+               <p>
+                  <pb facs="tcp:61966:6"/>The third Vſe is, to exhort us, as we hope to be ſaued, to apply our ſelues to the practiſe of repentance, to mourn with hearty ſorrow for ſinne, to returne from all ſinne to God, to the conſcionable practiſe of all good works. Doth not euery ſoul deſire to e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cape the wrath of God? (without repentance, if it were poſsible.)</p>
+               <p>
+                  <hi>Queſt.</hi> But what ſhall we do to repent?</p>
+               <p>
+                  <hi>Anſw.</hi> It is God that works it in us. Therefore ſeek to him for it. Now the means that he uſeth in working is his Word, his Spirit, and correction. By his word he teacheth and worketh repentance in the heart. Thus <hi>Paul</hi> tels us, that his preaching was to turn the Gentiles from darkneſſe to light The Word is a hammer to break the ſtony heart, it is a fire to purge out droſſe and corruption, of force to conuert the Soule, as <hi>David</hi> ſaith, <hi>Pſal.</hi> 19. It rege<g ref="char:EOLhyphen"/>nerateth, ſanctifieth, and quickneth the ſoul to new<g ref="char:EOLhyphen"/>neſſe of life. Whoſoeuer then will repent, muſt lend <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diligent eare to the Word of God, and they that deſpiſe it, muſt neuer look to repent: Did men con<g ref="char:EOLhyphen"/>ſider this, they would either giue off hope of their re<g ref="char:EOLhyphen"/>pentance, or be more conſtant in hearing the Word then they be.</p>
+               <p>Secondly, Gods ſpirit is the means whereby re<g ref="char:EOLhyphen"/>pentance is wrougyt in the heart Repentance is the work and gift of the Spirit. Therefore while we hear Gods word, we muſt pray, ſigh, groan, and cry unto him for his Spirit, acknowledging we can do nothing of our ſelues, but his Spirit muſt work euery grace in us.</p>
+               <p>
+                  <pb facs="tcp:61966:7"/>Thirdly, Gods corrections are an ordinary meane, not of themſelues, but by the bleſſing of his Spirit, whereby he works repentance in the heart. Thus <hi>Manaſſes</hi> brought to chaines, was brought to repen<g ref="char:EOLhyphen"/>tance: Thus the Thief crucified with our Sauiour, learned to repent. <hi>Hoſ.</hi> 6.1. <hi>Come</hi> (ſay they) <hi>let us re<g ref="char:EOLhyphen"/>turn to the Lord, he hath ſmitten us, he hath torn us.</hi>
+               </p>
+               <p>Firſt therefore, if we will repent, we muſt be di<g ref="char:EOLhyphen"/>ligent in attending to the Word, and praying for his Spirit, ſo to make good uſe of corrections, to take notice of Gods end, and hand in them, and learn to ſee the cauſe of them, which is our ſinne; That we ſorrow for thoſe ſinnes which haue brought ſuch cor<g ref="char:EOLhyphen"/>rection upon us.</p>
+               <p>Secondly, if we will repent, we muſt labour for a through knowledge of our own eſtate, What we are of our ſelues by reaſon of our ſinnes, and likewiſe the curſe of God that is due unto us. To that purpoſe we muſt examine our ſelues by reaſon of our ſinnes, our hearts and liues, by the law of God, and then we ſhall ſée our ſinnes, the number of them, and the hainous nature of them. After I was inſtructed (ſaith <hi>Ephraim</hi>) that is, after I came to the know<g ref="char:EOLhyphen"/>ledge of my ſelf, I repented, not till we be brought to the ſight of our miſerable eſtate, till we be brought to this perplexity, with theſe pricked hearts, that we know not what to do, can our hearts repent.</p>
+               <p>Thirdly, labour for faith to apprehend the promi<g ref="char:EOLhyphen"/>ſes and mercies in Chriſt Ieſus: for though Repen<g ref="char:EOLhyphen"/>tance &amp; Faith grow together in time, yet in nature faith is the mouing cauſe of repentance; Faith and
+<pb facs="tcp:61966:7"/>
+confidence in Gods mercy that he will receiue us, is a moving cauſe of Repentance.</p>
+               <p>Till a man belieue the promiſes of God, and ap<g ref="char:EOLhyphen"/>prehend the mercies of God in Chriſt by faith, though he be terrified by iudgement, yet he doth grow obſti<g ref="char:EOLhyphen"/>nate, and neuer humbleth himſelf by Repentance.</p>
+            </div>
+            <div type="section">
+               <head>Motives to perſwade us to Repentance.</head>
+               <p>What néeds more then this? He that will be ſaued muſt repent, without repentance nothing can be expected but damnation: more particularly con<g ref="char:EOLhyphen"/>ſider,</p>
+               <p n="1">1. Motive.</p>
+               <p>Firſt, Gods mercy and loue: God is a mercifull God; and that ſhould draw our hearts to repentance, <hi>Joel</hi> 2.12.</p>
+               <p>The Prophet uſeth this argument, Turn unto <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord with all your heart, rent your hearts, and not your garments, &amp;c. for he is a mercifull and gra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious God. There is mercy with thee that thou may<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt be feared (ſaith <hi>David</hi>) as if he ſhould ſay, if thou wert not a mercifull God, to what end were it to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epent? But ſeeing thou art a mercifull God, it is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſome purpoſe to repent: great is the mercy and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oue of God to penitent ſinners: Let the gift of his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nly begotten Son to the curſed death of the Croſſe witneſſe: Is God ſo mercifull to us, and ſhall we <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffend him ſtill by our ſinne? ſhall we be ſo hard <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd unmerciful to our own ſouls, to whom God hath <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>éen ſo mercifull?</p>
+               <p n="2">The ſecond Motive is, The conſideration of
+<pb facs="tcp:61966:8"/>
+Chriſts death and paſſion ſhould moue us to Repen<g ref="char:EOLhyphen"/>tance: Was he pierced for our ſinnes, did he ſuffer the curſe of God for our ſins? How then ſhould our ſinnes that pierced him, pierce our hearts with grief? <hi>Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch.</hi> 12.10. As he did thoſe.</p>
+               <p>Beloded, hath Chriſt ſuffered ſuch things for us, and ſhall we crucifie him afreſh with our ſinnes? Shall we trample his bleſſed Body and Blood under feet, and contemn ſo great a ſalvation?</p>
+               <p n="3">The third Motiue may be taken from the means and gracious times wee enioy. This argument Chriſt and Iohn Baptiſt in their preaching uſed to moue the people to Repentance. This is the time of grace and ſaluation, now is Gods grace plentifully powred out; if theſe times and meanes will not moue thée, it ſhall be eaſier for Tyre and Sydon at the day of iudgement, then for thee.</p>
+               <p n="4">The fourth Motiue may be taken from the conſi<g ref="char:EOLhyphen"/>deration of the Cvils of impenitencie, even in this life.</p>
+               <p>Firſt, Temporall Iudgement that God hath in ſtore for the impenitent and hard-hearted perſons that go on in their wickedneſſe. <hi>Rev.</hi> 2.21, 22. <hi>I gave her ſpace to repent, and ſhe repented not<g ref="char:punc">▪</g>
+                  </hi> What then? <hi>Behold I will caſt her in a bed, and them that commit adultery with her into great tribu<g ref="char:EOLhyphen"/>lation, except they repent of their deeds.</hi> And look thou impenitent heart for the like. <hi>This I will do</hi> (ſaith the Lord) <hi>Amos</hi> 4. <hi>And becauſe I do thus unto thee, prepare thy heart to meet thy Lord, O Iſrael.</hi>
+               </p>
+               <p>The ſecond evil of impenitencie in this life, is ei<g ref="char:EOLunhyphen"/>ther
+<pb facs="tcp:61966:8"/>
+hardneſſe of heart, or horror of conſcience: For an impenitent perſon, when hee hath much offended his conſcience with long cuſtome of ſin, muſt needs be filled with great horror. As Cain and Iudas, which made them deſperately caſt away themſelues. And if he bee not thus filled with horror, yet he is poſſeſſed with great hardneſſe of heart, which is the greateſt iudgement that he can have inflicted upon him in this life.</p>
+               <p>And it followes in the third place, why thou after the hardneſſe of thy impitent heart treaſureſt up for thy ſelfe wrath againſt the day of wrath. The more ſin thou committeſt, the longer thou liveſt in ſin and impenitency, and the more wrath doſt thou treaſure up for thy ſelfe.</p>
+               <p n="5">The fifth motive is taken from the benefit of Re<g ref="char:EOLhyphen"/>pentance in this life, firſt it obtaines an aſſured par<g ref="char:EOLhyphen"/>don of all ſin, which is the cheifeſt happineſſe in this life: thy ſins ſhall be waſhed away by the blood of Chriſt. Thus ſaith Chriſt to the penitent woman that waſhed his féet with her teares, <hi>Thy ſinnes are forgiven.</hi> Of the penitent Publican he ſaith, <hi>This man went home justified.</hi> So the penitent perſon ever obtains pardon and remiſſion of all his ſinne, and is iuſtified in the ſight of God.</p>
+               <p>The ſecond benefit is the removall of all afflicti<g ref="char:EOLhyphen"/>ons, <hi>Jer.</hi> 18.7, 8. <hi>I will ſpeak ſuddenly againſt a Na<g ref="char:EOLhyphen"/>tion or againſt a Kingdom, to pluck it up and deſtroy it: but if this Nation ſhall turn from their wicked<g ref="char:EOLhyphen"/>neſſe, I will repent of the Plague I thought to bring upon them.</hi> If thou repent, God will repent of the
+<pb facs="tcp:61966:9"/>
+evil. Thus <hi>Ninive</hi> found by experience. When wicked <hi>Ahab</hi> did but hypocritically humble himſelf before the Lord, the Lord was pleaſed to deferre the Iudgement threatned. How much more when a man applies with a ſincere heart to repent of his ſins before God? Y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, it will remove Iudgement al<g ref="char:EOLhyphen"/>ready fallen. This the Lord promiſeth, <hi>Chron.</hi> 7.4. If God hath ſmitten thée in thine eſtate, or other<g ref="char:EOLhyphen"/>wiſe for thy ſinne, yet humble thy ſelf, and the Lord will pardon thée, and heale thoo, or at leaſt, if he re<g ref="char:EOLhyphen"/>move not thine affliction ſuddenly, it ſhall be for thy good, for he will ſanctifie them unto thée. Thus did God to <hi>David,</hi> when he had afflictions: which be<g ref="char:EOLhyphen"/>cauſe they were ſcandalous, could not be eaſily and ſuddenly removed: yet, ſaith he, it was good for me that I have been afflicted.</p>
+               <p n="3">3. It is a means to obtain temporall bleſſings<g ref="char:punc">▪</g> 
+                  <hi>Joel</hi> 2. The Prophet exhorteth them to repentance, &amp; adds in the 14. verſe, who knoweth if God will re<g ref="char:EOLhyphen"/>turn and leaue a bleſsing behind him? The Pro<g ref="char:EOLhyphen"/>phet ſeems to make it doubtfull, yet it is without all doubt, all queſtion: and in the 18. verſe he ſaith<g ref="char:punc">▪</g> If they repent, he will be iealous of their land, and pitty his people: yea, behold I will ſend you Corn, Wine and Oyle, and ye ſhall be ſatisfied therewith and I will make you no more a reproach among th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heathen. So repentance is a means to obtain tem<g ref="char:EOLunhyphen"/>porall bleſsings in this life for the maintenance o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our eſtates.</p>
+               <p>Laſtly, it is a means to obtain increaſe of grace with peace of conſcience, and increaſe of ioy and com<g ref="char:EOLunhyphen"/>fort.
+<pb facs="tcp:61966:9"/>
+Thus Saint <hi>Peter</hi> exhorts, Repent (ſaith he) and then he promiſeth the gift of the Holy Ghoſt ſhould flow forth to them, and after grace followes peace and ſpirituall joy, Chriſt will make thee par: taker of true ioy, he will dwell with the humble, and revive their ſpirits. The ſixt Motive to perſwade <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is to Repentance, may be taken from the conſide<g ref="char:EOLhyphen"/>ration of our baptiſme, we have ſet our hands to the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eal of baptiſme to bind us to the duty of repentance, therefore we are bound to it by our own ſeale, our own p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omiſe and vow.</p>
+               <p>Again: Repentance makes our perſons &amp; workes <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cceptable to God, the broken &amp; the contrite heart is acceptable to God. A broken heart (G Lord) thou wilt not deſpiſe.</p>
+               <p>Another Motive may be taken from the conſidera<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion of the laſt judgement. Now God wiſheth all men to repent, becauſe hee hath appointed a day wherein he will judge the world with righteouſneſſe ſaith Saint <hi>Paul.</hi> Then ſhall their ſinnes be laid open. O let us bethink ous ſelves in what eſtate we would be found before the great Iudge at the laſt day, whether with our ſinnes remaining, or pardon<g ref="char:EOLhyphen"/>ed and forgiven.</p>
+               <p>Laſtly, conſider the wofull eſtate of ſinners in hel, and the bleſſed eſtate of the paitent in heaven. Let the conſideration of all thoſe things move us to turne to God by repentance, and make conſcience of a new life.</p>
+               <p>But ſome will ſay, repentance is a bitter thing.</p>
+               <p>But he that will taſte of the ſweetneſſe of ſalva<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:61966:10"/>
+muſt partake of the bitterneſſe of repentance.</p>
+               <p>Is repentacce a bitter thing? know then that the fruit of impenitency is more bitter. Nay, though repentance be bitter to fleſh and blood, yet God have<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fuſed grace into the repentant ſoul, it doth be<g ref="char:EOLhyphen"/>comen weet unto him But ſome will ſay, it I ſhould ſet my ſelfe to the practiſe of repentance, it will be my undoing. I ſhould loſe my gaine. But tel me, what will it availe thee to win the whole world, and to loſe thine owne ſoul? Now if thou wilt beleeve Chriſt, thou ſhalt gaine an hundred fold, <hi>Mat.</hi> 19.29. The gaine that thou haſt by impenitency<g ref="char:punc">▪</g> what is it but the cauſe of Gods iudgements againſt thee? Goe too now ye impenitent wretches, weepe and houle, your garments are moth-eaten. You treaſure up riches here to increaſe Gods vengeance hereafter. But repentance gains Gods bleſſing in this life, and a Kingdome in the world to come.</p>
+               <p>Now ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me will ſay, I would faine repent for my ſinnes, but I am ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>umbred with the things of this life, that I cannot apply my ſelfe unto it.</p>
+               <p>But caſt of the incumbrances of this world firſt, and know that repentance will not hinder thee in t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y honeſt calling.</p>
+               <p>Some other would ſay, I am willing to repent, but I am <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o intangled with carnall friends, that I ſhall diſpleaſe them, and I ſhall have a weary life with them. But <hi>he that forſaketh not father and mother, and brother and ſiſter, and all things elſe for my ſake</hi> (ſaith our Saviour) <hi>is not worthy of me.</hi> Wilt thou deſpite God and Chriſt, and thine owne ſoule for thy carnall
+<pb facs="tcp:61966:10"/>
+friends? Repent; then God and Chriſt, and all the Saints and Angells will be thy friends.</p>
+               <p>Now others will ſay, I purpoſe to repent, and can<g ref="char:EOLhyphen"/>not yet apply my ſelfe unto it. But when doſt thou purpoſe to repent? Is the time in thy hand? Thou knoweſt not how ſuddenly thou ſhalt be cut off, there<g ref="char:EOLhyphen"/>fore deferre not the time o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy repentance. Doe we not ſée many in their youth, health, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d weal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h quickly gone? And doſt not thou byd l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y make the burthen heavier? encreaſing thy ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e? Is not the worke harder when thou doſt performe it then? In the mea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e while thou art the Devils ſlave. Yet ſup<g ref="char:EOLhyphen"/>poſe thou doſt intend, according to thy promiſe to re<g ref="char:EOLhyphen"/>pent in thy ſickneſſe, or in old age, thou ſhalt find as the burthen is greater, ſo the taske to be more hard and difficult, when ſickneſſe comes, and old age is burthen enough of it ſelfe and needs not any greater.</p>
+               <p>Laſtly, conſider, the gift of Gods grace is not in thy power.</p>
+               <p>Now is the day of grace now is the appo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nted time, and if thou wilt not now accept his grace offe<g ref="char:EOLhyphen"/>red unto thee, when thou calleſt hereafter upon him, how knoweſt thou if hee will hear thee, ſeeing now thou refuſeſt grace when it is offered thee? If ever thou meaneſt to repent, now is the tim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſlight not the grace of God, now it is offered unto thee.</p>
+               <p>Some will ſay I h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve repented already: but if thou haſt, thy repentance muſt be perpetuall and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tinuall, it is not the worke of a day, but o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſe. As long as thou bre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t thou doſt ſinne; the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epent as oft as thou ſinneſt. Betake the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lfe to a
+<pb facs="tcp:61966:11"/>
+more déep ſearch renew thy repentance daily, looke back to thy former ſinnes, and life, to thy birth and corruption, and know that the more thou repenteſt, the more ſwéet and eaſie will thy repentance be, and at laſt nothing will comfort thy ſoule ſo much as re<g ref="char:EOLhyphen"/>pentance.</p>
+               <p>The laſt uſe is for comfort to all thoſe that have re<g ref="char:EOLhyphen"/>pented indéed, they ſhall be ſaved: thou ſhalt loſe no<g ref="char:EOLhyphen"/>thing by thy repentance, thou ſhalt have great recom<g ref="char:EOLhyphen"/>pence, thy prayers ſhall be acceptable to God, thou ſhalt have peace in death, boldneſſe in iudgement, and glory in Heaven.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:61966:11"/>
+            <head>GENERAL RVLES Of a Godly Life.</head>
+            <epigraph>
+               <q>
+                  <l>He's only wiſe, who God doth know,</l>
+                  <l>And doth by life his knowledge ſhow.</l>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">E</seg>Very day thou draweſt neerer to thy <hi>Death, Iudgement</hi> and <hi>Eterni<g ref="char:EOLhyphen"/>ty.</hi> Therefore thinke every day how thou mayeſt be able to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and in that moſt ſtrict and ſevere <hi>Iudgement,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſo live for ever. Look diligently to thy <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>houghts, Words,</hi> and <hi>Deeds,</hi> Every evening <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hink thou ſhalt dye that night, Every mor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing thinke thou ſhalt die that day. Doe
+<pb facs="tcp:61966:12"/>
+not deferre thy converſion and good works till to <hi>Morrow;</hi> becauſe to morrow is un<g ref="char:EOLhyphen"/>certaine, but <hi>Death</hi> is certaine, and hangs over thy head every day. Nothing is more contrary to Godlineſſe than delay: If thou contem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teſt the inward calling of the Holy Spirit, thou ſhalt never attaine to true con<g ref="char:EOLhyphen"/>verſion. Deferre not thy converſion and good works till thine old age, but offer un<g ref="char:EOLhyphen"/>to God the flower of thy youth It is uncer<g ref="char:EOLhyphen"/>taine whether the young man ſhall live till he be old: But it is certaine that deſtruction is prepared for the young man that is im<g ref="char:EOLhyphen"/>penitent. No age is fitter for Gods ſervice than youth, which flouriſheth in body and minde. For no mans ſake undertake an e<g ref="char:EOLhyphen"/>vill cauſe, for it is not man, but God that ſhall hereafter judge thee; do not therefore preferre the favour of men before the grace of God. In the way of the Lord either we goe forwards, or elſe we goe backwards. Therefore examine the life every day, whe<g ref="char:EOLhyphen"/>ther thou goeſt forwards or backwards in the ſtudy of piety; to ſtand in the way of the Lord, is to goe back; Delight not then to ſtand ſtill in the courſe of godlineſſe, but
+<pb facs="tcp:61966:12"/>
+ſtudy alwayes to walke in the way of the Lord, let thy converſation be evermore courteous unto all, grievous to none, famili<g ref="char:EOLhyphen"/>ar with few. To God live piouſly, to thy ſelfe chaſtly, to thy neighbour juſtly. Shew favour to thy friend, Shew patience to<g ref="char:EOLhyphen"/>wards thy enemie, Shew thy good will to<g ref="char:EOLhyphen"/>wards all, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy bounty to whoml thou art able. In thy life die daily unto thy ſelfe, and unto thy vices. So in death thou ſhalt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive unto God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
